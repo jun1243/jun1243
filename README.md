@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  I'm Jorlito Montejo Jr, a 2nd year student from Batangas State University-Alangilan Campus.
+  I'm Jorlito Montejo Jr, a 3rd year student from Batangas State University-Alangilan Campus.
 I’m currently learning to code to learn more skills that can help me in my studies
 and in the future as a computer engineer. I'm also excited to be able to collaborate
 on different projects that can help me grow and learn more in coding.
